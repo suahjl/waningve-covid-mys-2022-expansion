@@ -1,0 +1,12 @@
+,AOR,LB,UB
+aa_11to14Weeks,1.0,0.95,1.05
+aa_7to10Weeks,1.08,1.03,1.13
+aa_3to6Weeks,1.14,1.09,1.18
+pp_11to14Weeks,0.97,0.93,1.01
+pp_7to10Weeks,0.92,0.89,0.95
+pp_3to6Weeks,0.77,0.75,0.8
+pp_0to2Weeks,0.65,0.62,0.68
+ss_11to14Weeks,1.05,1.01,1.09
+ss_7to10Weeks,0.96,0.93,1.0
+ss_3to6Weeks,0.82,0.79,0.85
+ss_0to2Weeks,0.64,0.6,0.69

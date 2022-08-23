@@ -1,0 +1,13 @@
+,Outcome,VE,LB,UB
+aa_7to14Weeks,ICU,74.45,65.88,80.87
+aa_0to7Weeks,ICU,79.99,71.06,86.16
+pp_7to14Weeks,ICU,78.31,74.5,81.56
+pp_0to7Weeks,ICU,73.71,66.11,79.61
+ss_7to14Weeks,ICU,34.99,26.84,42.23
+ss_0to7Weeks,ICU,41.08,28.37,51.54
+aa_7to14Weeks,Death,87.68,80.99,92.02
+aa_0to7Weeks,Death,86.18,76.27,91.96
+pp_7to14Weeks,Death,87.75,84.99,90.0
+pp_0to7Weeks,Death,69.26,58.75,77.09
+ss_7to14Weeks,Death,74.2,69.56,78.13
+ss_0to7Weeks,Death,65.1,54.07,73.48
