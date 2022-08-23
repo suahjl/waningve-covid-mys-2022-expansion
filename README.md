@@ -5,6 +5,7 @@ The repository contains the following.
 1. Python scripts to estimate the AORs of SARS-CoV-2 infection, and the VE against severe COVID-19 outcomes (ICU admission, and death), by vaccine-combination-and-time-since-vaccination groups. These are in the main directory.
 2. Anonymised, and cleaned, data vintages consolidated from various **nationally-comprehensive** administrative data sources in Malaysia's national COVID-19 surveillance system, and COVID-19 vaccination drive. These are in the ```Data``` folder.
 3. Pre-compiled output files, including additional, more detailed, findings not presented at the congress, e.g., VE by age groups. These are in the ```Output``` folder.
+4. Poster used for the presentation. This can be found in the ```Presentation``` folder.
 
 ## Data documentation
 ### Infection 
